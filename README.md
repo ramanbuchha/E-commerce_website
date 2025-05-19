@@ -16,12 +16,6 @@ Your project is live at:
 
 **[https://e-commerce-website-ramans-projects-31295dc1.vercel.app/](https://e-commerce-website-ramans-projects-31295dc1.vercel.app/)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/8EVguy4ciMt](https://v0.dev/chat/projects/8EVguy4ciMt)**
-
 ## How It Works
 
 1. Create and modify your project using [v0.dev](https://v0.dev)
