@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/rajans-projects-1e759ffe/v0-h-r-apparel-website](https://vercel.com/rajans-projects-1e759ffe/v0-h-r-apparel-website)**
+**[https://e-commerce-website-ramans-projects-31295dc1.vercel.app/](https://e-commerce-website-ramans-projects-31295dc1.vercel.app/)**
 
 ## Build your app
 
