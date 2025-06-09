@@ -1,4 +1,4 @@
- H R Apparel website
+# H R Apparel website
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
